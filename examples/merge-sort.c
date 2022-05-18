@@ -70,7 +70,6 @@ void merge(int* arr, size_t n, size_t size_left)
     {
         arr[k] = right_arr[j];
         ++j;
-        ++k;
     }
 
 
